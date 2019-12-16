@@ -1,4 +1,4 @@
-# salaryprediction
+# Salary Prediction using Machine Learning and Feature Engineering
 Salary Prediction Project
 
 Companies like Glassdoor and Paysa are popping up which give potential employees and recruiters access to all sorts of information regarding the profile of a company. These companies provide information ranging from reviews, to jobs and also salaries for said jobs that a given company might have posted.
