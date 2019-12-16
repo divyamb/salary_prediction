@@ -8,7 +8,6 @@ Since not all employees are not willing to share how much they really make and t
 The problem that arises now is missing data regarding salaries though we do have some insight as to what companies hire for.
 
 We can tackle this problem by using Machine Learning and the power of prediction that comes with Machine Learning to estimate salaries for the jobs we dont have any salary data for.
-<<<<<<< HEAD
 
 Here are the files that might be of importance to you...
 
