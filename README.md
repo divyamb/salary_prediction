@@ -24,3 +24,18 @@ All the charts you see in the EDA notebook can be found in the reports section.
 The feature importances of the data as ranked by the model can be found in the feature importance csv file in the root folder, as well as can be found as an image with filename feature_importances.png.
 
 The predicted salaries are in a csv file in the root folder with the name predictions_salaries.csv
+
+![salaryprediction](https://github.com/divyamb/salary_prediction/blob/master/img/slide_1.png)
+![tableofcontents](https://github.com/divyamb/salary_prediction/blob/master/img/slide_2.png)
+![slide3](https://github.com/divyamb/salary_prediction/blob/master/img/slide_3.png)
+![slide4](https://github.com/divyamb/salary_prediction/blob/master/img/slide_4.png)
+![slide5](https://github.com/divyamb/salary_prediction/blob/master/img/slide_5.png)
+![slide6](https://github.com/divyamb/salary_prediction/blob/master/img/slide_6.png)
+![slide7](https://github.com/divyamb/salary_prediction/blob/master/img/slide_7.png)
+![slide8](https://github.com/divyamb/salary_prediction/blob/master/img/slide_8.png)
+![slide9](https://github.com/divyamb/salary_prediction/blob/master/img/slide_9.png)
+![slide10](https://github.com/divyamb/salary_prediction/blob/master/img/slide_10.png)
+![slide11](https://github.com/divyamb/salary_prediction/blob/master/img/slide_11.png)
+![slide12](https://github.com/divyamb/salary_prediction/blob/master/img/slide_12.png)
+![slide13](https://github.com/divyamb/salary_prediction/blob/master/img/slide_13.png)
+![slide14](https://github.com/divyamb/salary_prediction/blob/master/img/slide_14.png)
